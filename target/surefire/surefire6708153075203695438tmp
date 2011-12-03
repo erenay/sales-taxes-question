@@ -1,0 +1,5 @@
+#surefire
+#Sat Dec 03 19:15:31 GMT 2011
+user.dir=/home/erenay/code/workspace_helios/sourcesence-test
+localRepository=/home/erenay/.m2/repository
+basedir=/home/erenay/code/workspace_helios/sourcesence-test
